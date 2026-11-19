@@ -39,7 +39,7 @@ using (Redactor redactor = new Redactor("sample.docx"))
 ```
 
 ### Java Document Redaction (Maven, Spring Boot)
-Native Java library with the same redactions, from the [GroupDocs Maven repository](https://releases.groupdocs.com/java/repo/): `com.groupdocs:groupdocs-redaction:26.10`.
+Native Java library with the same redactions, from the [GroupDocs Maven repository](https://releases.groupdocs.com/java/repo/): `com.groupdocs:groupdocs-redaction:26.11`.
 * **[GroupDocs.Redaction-for-Java](https://github.com/groupdocs-redaction/GroupDocs.Redaction-for-Java)**: Runnable Java examples for every redaction type.
 
 ```java
